@@ -39,7 +39,7 @@ This project processes uploaded financial documents asynchronously and generates
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/gayatritech/financial-document-analyzer.git
+git clone https://github.com/gayatritec/Financial-Document-Analyzer
 cd financial-document-analyzer
 
 ### 2️⃣ Create Virtual Environment
