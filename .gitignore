@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Environment variables / secrets
+.env
+
+# Logs and outputs
+outputs/
+*.log
+
+# Data (raw/temporary files)
+data/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
