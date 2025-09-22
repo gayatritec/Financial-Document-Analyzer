@@ -60,11 +60,17 @@ pip install -r requirements.txt
 3. Save and restart the app
 
 GEMINI_API_KEY=your-gemini-api-key
+
 GEMINI_MODEL=gemini/gemini-2.0-flash
+
 SERPER_API_KEY=your-serper-api-key
+
 REDIS_HOST=your-redis-host
+
 REDIS_PORT=your-redis-port
+
 REDIS_PASSWORD=your-redis-password
+
 MONGO_URI=your-mongo-uri
 
 ### 5️⃣Run Services
