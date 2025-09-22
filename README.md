@@ -43,7 +43,7 @@ This project processes uploaded financial documents asynchronously and generates
 git clone https://github.com/your-gayatritech/financial-document-analyzer.git
 cd financial-document-analyzer
 
-
+```bash
 ### 2️⃣ Create Virtual Environment
 
 
